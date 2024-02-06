@@ -1,0 +1,15 @@
+imput {
+    width:300px
+}
+
+h1 {
+    font-family: 'Lemon', serif;
+}
+*.dark {
+    background-color: #112F41;
+    color: #ffffff;
+  }
+  
+  textarea {
+    width:100%;
+  }
