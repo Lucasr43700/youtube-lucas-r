@@ -1,4 +1,4 @@
-imput {
+input {
     width:300px
 }
 
@@ -12,4 +12,16 @@ h1 {
   
   textarea {
     width:100%;
+  }
+
+
+  @media screen and (max-width: 992px){
+     iframe {
+      height: 450px!important;
+      padding:30px!important;
+     }
+  }
+  
+  .highlight {
+    background-color: crimson;
   }
